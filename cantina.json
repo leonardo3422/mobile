@@ -1,0 +1,6 @@
+{"cantina": 
+        [
+            { "id" :"1", "nome": "SPAGHETTI CARBONARA", "descricao": "Tradicional espaguete italiano com bacon, ovos e queijo Parmesão" }, 
+            { "id" :"2", "nome": "FRANGO TIKKA MASALA", "descricao": "Prato indiano de frango com molho de tomate cremoso e especiarias" } 
+        ]
+}

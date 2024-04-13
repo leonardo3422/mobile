@@ -1,0 +1,111 @@
+{
+    "name": "Cantina",
+    "short_name": "Cantina",
+    "icons": [
+      {
+        "src": "images/29.png",
+        "sizes": "29x29",
+        "type": "image/png"
+      },
+      {
+        "src": "images/40.png",
+        "sizes": "40x40",
+        "type": "image/png"
+      },
+      {
+        "src": "images/57.png",
+        "sizes": "57x57",
+        "type": "image/png"
+      },
+      {
+        "src": "images/58.png",
+        "sizes": "58x58",
+        "type": "image/png"
+      },
+      {
+        "src": "images/60.png",
+        "sizes": "60x60",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "images/80.png",
+        "sizes": "80x80",
+        "type": "image/png"
+      },
+      {
+        "src": "images/87.png",
+        "sizes": "87x87",
+        "type": "image/png"
+      },
+      {
+        "src": "images/120.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      },
+      {
+        "src": "images/128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "images/144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "images/152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "images/167.png",
+        "sizes": "167x167",
+        "type": "image/png"
+      },
+      {
+        "src": "images/172.png",
+        "sizes": "172x172",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "images/180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "images/196.png",
+        "sizes": "196x196",
+        "type": "image/png"
+      },
+      {
+        "src": "images/216.png",
+        "sizes": "216x216",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "images/256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "images/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "images/1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+
+
+
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#31506F",
+    "theme_color": "#4D5360"
+  }
